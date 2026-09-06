@@ -3,3 +3,9 @@ this comment is from the staging branch
 this comment is from the staging branch again
 
 this comment is from the staging branch again again
+
+This text is from development branch.
+
+this comment is from the staging branch
+
+This is just a test
