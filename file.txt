@@ -10,4 +10,6 @@ this comment is from the staging branch
 
 This is just a test
 
-this coment is the fourth comment from staging.
+this comment is the fourth comment from staging.
+
+this comment is the fifth comment from staging.
